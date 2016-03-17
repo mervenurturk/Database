@@ -1,0 +1,22 @@
+#Öznur Özdemir - 
+#Merve Nur Türk - 30709037
+
+# Show students who are at engineering faculty.
+
+# Show the numbers of Merve Nur Türk's parents.
+
+# Show students paid the first five installments.
+
+# Show students that they are at education faculty and check out at in November.
+
+# Show the numbers of students that come from same city and stay at same room.
+
+# Show students that stay at seventh block and has birthday in December.
+
+# Compute the birthdays of students in May.
+
+# Show parents's phone numbers of students comes from Ankara.
+
+# Show students' room who is Merve and has third deggre.
+
+# Show the rooms and phone numbers of students that have A+ blood.
